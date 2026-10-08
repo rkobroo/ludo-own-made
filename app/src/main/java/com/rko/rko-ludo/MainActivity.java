@@ -1,4 +1,5 @@
-package com.vinaykpro.ludoking;
+package com.rko-ludo
+;
 
 import static android.view.View.GONE;
 

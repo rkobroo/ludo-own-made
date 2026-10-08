@@ -1,4 +1,4 @@
-package com.vinaykpro.ludoking;
+package com.rko-kudo;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
